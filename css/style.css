@@ -26,6 +26,7 @@ body {
 .main {
     flex-direction: column;
     width: 250px;
+    margin: 20px;
     padding: .9em;
     border-radius: 1em;
     background-color: var(--white);
